@@ -5,10 +5,12 @@
     <hr>
     <br>  
     <label for="name"><b>name</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <input type="text" placeholder="Enter name" name=name" id="name" required>
     <br>
-
-
+    
+    <label for="aadha"><b>aadhar</b></label>
+    <input type="text" placeholder="Enter aadhar" name=aadhar" id="aadhar" required>
+    <br>
 
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
